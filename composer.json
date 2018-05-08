@@ -1,7 +1,6 @@
 {
     "name": "zhimiao/xy_php_rpc",
     "description": "xiangyin rpc php client",
-    "version": "1.0",
     "type": "library",
     "authors": [
         {
