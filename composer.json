@@ -1,0 +1,14 @@
+{
+    "name": "zhimiao/_php",
+    "description": "xiangyin rpc php client",
+    "authors": [
+        {
+            "name": "zhimiao",
+            "email": "zhimiao2008@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "XyGrpc\\": "src" }
+    },
+    "require": {}
+}
