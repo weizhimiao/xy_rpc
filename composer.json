@@ -1,6 +1,8 @@
 {
     "name": "zhimiao/xy_php_rpc",
     "description": "xiangyin rpc php client",
+    "version": "1.0",
+    "type": "library",
     "authors": [
         {
             "name": "zhimiao",
@@ -10,5 +12,8 @@
     "autoload": {
         "psr-4": { "XyGrpc\\": "src" }
     },
-    "require": {}
+    "require": {
+      "grpc/grpc": "^1.10",
+      "google/protobuf": "^3.5"
+    }
 }
