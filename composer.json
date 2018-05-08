@@ -1,5 +1,5 @@
 {
-    "name": "zhimiao/xy_php_rpc",
+    "name": "xiangyin/xiangyin-php",
     "description": "xiangyin rpc php client",
     "type": "library",
     "authors": [
@@ -9,7 +9,9 @@
         }
     ],
     "autoload": {
-        "psr-4": { "xy\\grpc\\": "src" }
+        "psr-4": {
+            "": "src/"
+        }
     },
     "require": {
       "grpc/grpc": "^1.10",
