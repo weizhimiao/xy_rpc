@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "XyGrpc\\": "src" }
+        "psr-4": { "xy\\grpc\\": "src" }
     },
     "require": {
       "grpc/grpc": "^1.10",
