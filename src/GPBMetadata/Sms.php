@@ -14,7 +14,7 @@ class Sms
         if (static::$is_initialized == true) {
           return;
         }
-        \GPBMetadata\Common\Commonpb\Common::initOnce();
+        \GPBMetadata\ApiXiangyinCom\App\Common\Commonpb\Common::initOnce();
         $pool->internalAddGeneratedFile(hex2bin(
             "0a9d050a09736d732e70726f746f1205736d737062226e0a115665726966" .
             "79436f646552657175657374120d0a0570686f6e65180120012809120c0a" .
