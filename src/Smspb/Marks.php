@@ -17,5 +17,8 @@ class Marks
      * Generated from protobuf enum <code>LOGIN = 0;</code>
      */
     const LOGIN = 0;
+
+
+    function
 }
 

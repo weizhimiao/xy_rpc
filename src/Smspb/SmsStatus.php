@@ -23,5 +23,12 @@ class SmsStatus
      * Generated from protobuf enum <code>STATUS_SUCC = 2;</code>
      */
     const STATUS_SUCC = 2;
+
+
+    function test(){
+        var_dump($a);
+    }
+
+
 }
 
