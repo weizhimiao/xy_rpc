@@ -71,5 +71,10 @@ class VerifyCodeReply extends \Google\Protobuf\Internal\Message
         return $this;
     }
 
+
+    const sdfsdfsdf = '121212';
+
+
+
 }
 
