@@ -4,6 +4,13 @@
 
 namespace GPBMetadata;
 
+
+
+
+
+/**
+* wagaga
+*/
 class Sms
 {
     public static $is_initialized = false;
